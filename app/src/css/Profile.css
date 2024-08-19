@@ -20,7 +20,9 @@
   
   .profileimage {
     text-align: center;
-    
+    margin: auto;
+    width: 50%;
+    padding: 10px;
 
   }
   
@@ -31,7 +33,7 @@
   }
   
   .aboutme {
-    margin-top: -50px;
+    margin-top: 50px;
     float: center; 
    display: flex;
    flex-direction: column;

@@ -8,7 +8,7 @@ const Signup = () => {
                 <div className="title">
                     <h1>Welcome to Mentor Me</h1>
                     <h2>Find Your Mentor, Find Your Way</h2>
-                    <img alt="asdasda"></img>
+                    <img src='./images/logo.webp' alt="asdasda"></img>
                 </div>
                
                <div className="split right">
